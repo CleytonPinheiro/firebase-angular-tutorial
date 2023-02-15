@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-d1fa7": {
+      "hosting": {
+        "kanbam-fire": [
+          "kanbanfire-d1fa7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-d1fa7"
+  }
+}
